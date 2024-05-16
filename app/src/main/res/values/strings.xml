@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="btn_calculate_IMC">Calcular IMC</string>}
+    <string name="et_height">Estatura en metros</string>
+    <string name="et_weight">Peso en Kg</string>
+    <string name="tv_welcome">Bienvenido a su calculadora IMC</string>
+    <string name="tv_instruccions">Por favor ingrese su información:</string>
+</resources>
